@@ -7,7 +7,7 @@ Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Per
 
 </br>
 
-**`[Clique aqui e acesse meu portifólio](https://portfoliomr265.web.app/)`**
+[Clique aqui e acesse meu portifólio](https://portfoliomr265.web.app/)
 
 
 ## 🌐 Redes sociais:
