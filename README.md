@@ -48,13 +48,8 @@ Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Per
           
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph.svg">
-</picture>
+![Gráfico de Contribuição Pac-Man](https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph.svg)
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ###          
           
