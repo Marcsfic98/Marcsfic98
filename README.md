@@ -5,6 +5,10 @@
 
 Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Pernambuco. Concluí o ensino médio no EREM Ginasio Pernambucano , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Mauricio de Nassau . Sou apaixonado por tecnologia e Desenvolvimento web .
 
+</br>
+
+**`[Clique aqui e acesse meu portifólio](https://portfoliomr265.web.app/)`**
+
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcxs_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcsfic) 
