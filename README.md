@@ -40,7 +40,8 @@ Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Per
  <img  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img width="12" />
  <img  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-          
+ <img width="12" />
+ <img  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />         
 
  <div/>
   <div/>    
