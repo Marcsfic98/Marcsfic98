@@ -2,7 +2,7 @@
   
 # Olá, eu sou Marcos Alexandre 👋
   
-![Desenvolvedor Full Stack & Mobile](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack+%26+Mobile)
+![Desenvolvedor Full Stack & Mobile](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=300&lines=Desenvolvedor+Full+Stack+%26+Mobile)
 
 🧑‍💻 Sobre Mim
 ---
