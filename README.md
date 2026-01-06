@@ -8,15 +8,11 @@
 Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Pernambuco. Concluí o ensino médio no EREM Ginasio Pernambucano , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Mauricio de Nassau . Sou apaixonado por tecnologia e Desenvolvimento web .
 
 </br>
-
-
-        🎨 UX/UI Design com foco em Design Systems e Acessibilidade <br>
-        ⚛️ Frontend com React, Next.js e TypeScript <br>
-        📱 Mobile com React Native e Expo <br>
-        🔧 Backend com Node.js, NestJS e arquiteturas escaláveis <br>
-
-
-
+🎨 UX/UI Design com foco em Design Systems e Acessibilidade <br>
+⚛️ Frontend com React, Next.js e TypeScript <br>
+📱 Mobile com React Native e Expo <br>
+🔧 Backend com Node.js, NestJS e arquiteturas escaláveis <br>
+</br>
 ## 🛠️ Tech Stack
 
 ### • Languages
@@ -48,9 +44,14 @@ Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Per
 ![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-FF61F6?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=docker&logoColor=white)
 
-  ## 🌐 Redes sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcxs_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcsfic) 
 
+## 📫 Vamos Conversar?
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=zeit&logoColor=white)](https://portfoliomr265.web.app/)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/marcsfic/))
+[![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Marcsfic98/Marcsfic98))
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcsfic98@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581983737440&text=Ol%C3%A1+Marcos+ribeiro+%21)
   <div/>    
 
    </br>
