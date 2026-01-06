@@ -1,4 +1,4 @@
- <div align="center">
+ <div align="left">
 
 ![Desenvolvedor Full Stack & Mobile](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%26+Mobile)
 
