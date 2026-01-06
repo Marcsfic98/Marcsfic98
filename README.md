@@ -9,12 +9,21 @@ Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Per
 
 </br>
 
-<div align="left" margin="auto">
- 🎨 UX/UI Design com foco em Design Systems e Acessibilidade </br>
-⚛️ Frontend com React, Next.js e TypeScript</br>
-📱 Mobile com React Native e Expo</br>
-🔧 Backend com Node.js, NestJS e arquiteturas escaláveis</br>
-[Clique aqui e acesse meu portifólio](https://portfoliomr265.web.app/)</br>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="left">
+        🎨 UX/UI Design com foco em Design Systems e Acessibilidade <br>
+        ⚛️ Frontend com React, Next.js e TypeScript <br>
+        📱 Mobile com React Native e Expo <br>
+        🔧 Backend com Node.js, NestJS e arquiteturas escaláveis <br>
+        <br>
+        <a href="https://portfoliomr265.web.app/">
+          <strong>🔵 Clique aqui e acesse meu portfólio</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
