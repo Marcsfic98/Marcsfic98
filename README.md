@@ -1,7 +1,9 @@
  <div align="center">
-# Olá, eu sou o Marcos Ribeiro 👋
 
 ![Desenvolvedor Full Stack & Mobile](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%26+Mobile)
+
+🧑‍💻 Sobre Mim
+---
 
 Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Pernambuco. Concluí o ensino médio no EREM Ginasio Pernambucano , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Mauricio de Nassau . Sou apaixonado por tecnologia e Desenvolvimento web .
 
