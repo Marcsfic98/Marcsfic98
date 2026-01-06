@@ -1,7 +1,11 @@
  <div align="center">
-# 👩🏻‍💻 Marcos Ribeiro
+# Olá, eu sou o Marcos Ribeiro 👋
 
-**`Desenvolvedor Front-End`**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Desenvolvedor+Mobile;Transformando+ideias+em+código" alt="Typing SVG" />
+  </a>
+</div>
 
 Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Pernambuco. Concluí o ensino médio no EREM Ginasio Pernambucano , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Mauricio de Nassau . Sou apaixonado por tecnologia e Desenvolvimento web .
 
