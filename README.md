@@ -9,6 +9,10 @@ Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Per
 
 </br>
 
+🎨 UX/UI Design com foco em Design Systems e Acessibilidade
+⚛️ Frontend com React, Next.js e TypeScript
+📱 Mobile com React Native e Expo
+🔧 Backend com Node.js, NestJS e arquiteturas escaláveis
 [Clique aqui e acesse meu portifólio](https://portfoliomr265.web.app/)
 
 
