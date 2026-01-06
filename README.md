@@ -48,24 +48,16 @@ Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Per
 ## 📫 Vamos Conversar?
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=zeit&logoColor=white)](https://portfoliomr265.web.app/)
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/marcsfic/))
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcsfic/)
 [![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Marcsfic98/Marcsfic98))
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcsfic98@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581983737440&text=Ol%C3%A1+Marcos+ribeiro+%21)
   <div/>    
 
-   </br>
-   </br>
+ 
  
   
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcsfic98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcsfic98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>         
-          
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Marcsfic98&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>         
+     
           
 ###
 
