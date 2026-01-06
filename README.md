@@ -1,11 +1,12 @@
  <div align="left">
-
+#Olá, eu sou Filipi Moraes 👋
+  
 ![Desenvolvedor Full Stack & Mobile](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%26+Mobile)
 
 🧑‍💻 Sobre Mim
 ---
 
-Me chamo Marcos Alexandre de Araujo Ribeiro , tenho 27 anos e sou natural de Pernambuco. Concluí o ensino médio no EREM Ginasio Pernambucano , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Mauricio de Nassau . Sou apaixonado por tecnologia e Desenvolvimento web .
+Sou um desenvolvedor focado em construir aplicações escaláveis e experiências de usuário fluidas. Adoro transformar problemas complexos em interfaces intuitivas, seja na web ou no mobile. Atualmente cursando o 3° periodo de analise e desnvolvimento de sistemas.
 
 </br>
 🎨 UX/UI Design com foco em Design Systems e Acessibilidade <br>
