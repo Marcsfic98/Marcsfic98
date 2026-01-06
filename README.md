@@ -1,5 +1,6 @@
  <div align="left">
-### Olá, eu sou Marcos Alexandre 👋
+  
+# Olá, eu sou Marcos Alexandre 👋
   
 ![Desenvolvedor Full Stack & Mobile](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%26+Mobile)
 
@@ -14,6 +15,7 @@ Sou um desenvolvedor focado em construir aplicações escaláveis e experiência
 📱 Mobile com React Native e Expo <br>
 🔧 Backend com Node.js, NestJS e arquiteturas escaláveis <br>
 </br>
+
 ## 🛠️ Tech Stack
 
 ### • Languages
