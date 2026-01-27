@@ -43,18 +43,18 @@
   <li><b>Educação:</b> Graduando em Análise e Desenvolvimento de Sistemas (3º Período).</li>
   <li><b>Perfil:</b> Especialista em transformar problemas complexos em interfaces intuitivas e funcionais.</li>
   <li><b>Especialidades:</b> Aplicações escaláveis, Mobile cross-platform (Expo), Design Systems e UX/UI.</li>
-  <li><b>Backend:</b> Construção de arquiteturas sólidas com Node.js, NestJS e Microserviços.</li>
+  <li><b>Backend:</b> Construção de arquiteturas sólidas com Node.js, NestJS e foco em performance.</li>
   <li><b>Local:</b> Brasil — disponível para projetos remotos e colaborações globais.</li>
 </ul>
 
 <pre>
-const marcosAlexandre = {
+const marcosRibeiro = {
   cargo: "Full Stack & Mobile Developer",
   formacao: "ADS - 3° Período",
   stack_principal: [
     "Frontend: React, Next.js e TypeScript",
     "Mobile: React Native e Expo",
-    "Backend: Node.js, NestJS e Microserviços",
+    "Backend: Node.js e NestJS",
     "Design: Figma, UX/UI e Design Systems"
   ],
   missao:
@@ -90,18 +90,17 @@ const marcosAlexandre = {
   <h4>🎨 Frontend & Design</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
 
-   <h4>🧱 Backend & Arquitetura</h4>
+  <h4>🧱 Backend & Arquitetura</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
 
   <h4>🗄️ Banco de dados</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-   <h4>📱 Mobile</h4>
+  <h4>📱 Mobile</h4>
   <img src="https://skillicons.dev/icons?i=react,expo" />
 
-
-  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=git,pretier, eslint" />
+  <h4>☁️ Ferramentas, DevOps & Qualidade</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,prettier,eslint,jest,docker" />
 </div>
 
 <hr/>
@@ -120,14 +119,14 @@ const marcosAlexandre = {
     <td>Interfaces reativas, SEO e performance Web</td>
   </tr>
   <tr>
-    <td><b>Mobile (React Native)</b></td>
+    <td><b>Mobile (React Native/Expo)</b></td>
     <td align="center"><b>88%</b></td>
-    <td>Apps híbridos, Expo e fluidez nativa</td>
+    <td>Apps híbridos e fluidez nativa com Expo</td>
   </tr>
   <tr>
     <td><b>Backend (Node/Nest)</b></td>
     <td align="center"><b>85%</b></td>
-    <td>APIs RESTful, Microserviços e NestJS</td>
+    <td>APIs REST e arquitetura modular com NestJS</td>
   </tr>
   <tr>
     <td><b>UI/UX Design</b></td>
@@ -135,9 +134,9 @@ const marcosAlexandre = {
     <td>Design Systems, Figma e Acessibilidade</td>
   </tr>
   <tr>
-    <td><b>Testes (Jest)</b></td>
-    <td align="center"><b>80%</b></td>
-    <td>Testes unitários e qualidade de código</td>
+    <td><b>Qualidade de Código</b></td>
+    <td align="center"><b>82%</b></td>
+    <td>Padronização com ESLint, Prettier e Jest</td>
   </tr>
 </table>
 
@@ -151,20 +150,20 @@ const marcosAlexandre = {
     <th align="left">Aplicação Prática</th>
   </tr>
   <tr>
-    <td><b>Visão de Produto</b></td>
-    <td>Desenvolvo pensando no usuário final e nos objetivos de negócio.</td>
+    <td><b>Engenharia de Valor</b></td>
+    <td>Foco em automação e ferramentas que aceleram a entrega sem perder qualidade.</td>
   </tr>
   <tr>
-    <td><b>Código Limpo</b></td>
-    <td>Foco em legibilidade e manutenção usando TypeScript e boas práticas.</td>
+    <td><b>Código Padronizado</b></td>
+    <td>Uso rigoroso de Linter e Formatter para garantir manutenibilidade em equipe.</td>
   </tr>
   <tr>
-    <td><b>Design Responsivo</b></td>
-    <td>Garantia de experiência perfeita em qualquer tamanho de tela.</td>
+    <td><b>Mobile-First Mindset</b></td>
+    <td>Desenvolvimento otimizado para performance e UX em dispositivos móveis.</td>
   </tr>
   <tr>
     <td><b>Evolução Constante</b></td>
-    <td>Atualmente aprofundando em arquiteturas de Microserviços.</td>
+    <td>Atualmente aprofundando em arquiteturas de Microserviços e CI/CD.</td>
   </tr>
 </table>
 
