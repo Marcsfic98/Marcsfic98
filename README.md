@@ -97,10 +97,10 @@ const marcosRibeiro = {
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
   <h4>📱 Mobile</h4>
-  <img src="https://skillicons.dev/icons?i=react,expo" />
+  <img src="https://skillicons.dev/icons?i=react,express" />
 
-  <h4>☁️ Ferramentas, DevOps & Qualidade</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,prettier,eslint,jest,docker" />
+  <h4>☁️ Ferramentas & Qualidade</h4>
+  <img src="https://skillicons.dev/icons?i=git,vscode,,jest,npm" />
 </div>
 
 <hr/>
