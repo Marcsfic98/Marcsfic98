@@ -44,7 +44,6 @@
   <li><b>Perfil:</b> Especialista em transformar problemas complexos em interfaces intuitivas e funcionais.</li>
   <li><b>Especialidades:</b> Aplicações escaláveis, Mobile cross-platform (Expo), Design Systems e UX/UI.</li>
   <li><b>Backend:</b> Construção de arquiteturas sólidas com Node.js, NestJS e Microserviços.</li>
-  <li><b>Diferencial:</b> Foco extremo em <b>Acessibilidade (WCAG)</b> e performance PIXEL-perfect.</li>
   <li><b>Local:</b> Brasil — disponível para projetos remotos e colaborações globais.</li>
 </ul>
 
@@ -86,19 +85,23 @@ const marcosAlexandre = {
 
 <div align="center">
   <h4>💻 Linguagens</h4>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js" />
 
-  <h4>🧱 Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,tailwind" />
+  <h4>🎨 Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
 
-  <h4>📱 Mobile</h4>
-  <img src="https://skillicons.dev/icons?i=react,apple" /> <span>*(React Native / Expo)*</span>
+   <h4>🧱 Backend & Arquitetura</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
 
-  <h4>🗄️ Banco de Dados</h4>
+  <h4>🗄️ Banco de dados</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-  <h4>🛠️ Ferramentas & Design</h4>
-  <img src="https://skillicons.dev/icons?i=figma,jest,git,github,docker,vscode" />
+   <h4>📱 Mobile</h4>
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+
+
+  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
+  <img src="https://skillicons.dev/icons?i=git,pretier, eslint" />
 </div>
 
 <hr/>
