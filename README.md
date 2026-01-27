@@ -100,7 +100,7 @@ const marcosRibeiro = {
   <img src="https://skillicons.dev/icons?i=react,express" />
 
   <h4>☁️ Ferramentas & Qualidade</h4>
-  <img src="https://skillicons.dev/icons?i=git,vscode,,jest,npm" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,jest,npm" />
 </div>
 
 <hr/>
