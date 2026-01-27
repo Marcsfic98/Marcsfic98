@@ -1,80 +1,205 @@
- <div align="left">
-  
-# Olá, eu sou Marcos Alexandre 👋
-  
-![Desenvolvedor Full Stack & Mobile](https://readme-typing-svg.herokuapp.com?color=632538&center=true&vCenter=true&width=400&lines=Desenvolvedor+Full+Stack+%26+Mobile)
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Marcos%20Alexandre&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
 
-🧑‍💻 Sobre Mim
----
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+problemas+complexos+em+experi%C3%AAncias+flu%C3%ADdas+e+escal%C3%A1veis."
+    alt="Texto animado"
+  />
+</p>
 
-Sou um desenvolvedor focado em construir aplicações escaláveis e experiências de usuário fluidas. Adoro transformar problemas complexos em interfaces intuitivas, seja na web ou no mobile. Atualmente cursando o 3° periodo de analise e desnvolvimento de sistemas.
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcsfic/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfoliomr265.web.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:marcsfic98@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5581983737440" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/Marcsfic98" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</br>
-🎨 UX/UI Design com foco em Design Systems e Acessibilidade <br>
-⚛️ Frontend com React, Next.js e TypeScript <br>
-📱 Mobile com React Native e Expo <br>
-🔧 Backend com Node.js, NestJS e arquiteturas escaláveis <br>
-</br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Marcsfic98&label=Profile%20Views&color=FF3B30" />
+  <img src="https://img.shields.io/github/followers/Marcsfic98?label=Followers&color=9B111E" />
+</p>
 
-## 🛠️ Tech Stack
+<hr/>
 
-### • Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<h2>🧠 Sobre mim</h2>
 
-### • Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<ul>
+  <li><b>Atuação:</b> Desenvolvedor Full Stack & Mobile focado em <b>TypeScript</b>, <b>Next.js</b> e <b>React Native</b>.</li>
+  <li><b>Educação:</b> Graduando em Análise e Desenvolvimento de Sistemas (3º Período).</li>
+  <li><b>Perfil:</b> Especialista em transformar problemas complexos em interfaces intuitivas e funcionais.</li>
+  <li><b>Especialidades:</b> Aplicações escaláveis, Mobile cross-platform (Expo), Design Systems e UX/UI.</li>
+  <li><b>Backend:</b> Construção de arquiteturas sólidas com Node.js, NestJS e Microserviços.</li>
+  <li><b>Diferencial:</b> Foco extremo em <b>Acessibilidade (WCAG)</b> e performance PIXEL-perfect.</li>
+  <li><b>Local:</b> Brasil — disponível para projetos remotos e colaborações globais.</li>
+</ul>
 
-### • Tools & Testing
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+<pre>
+const marcosAlexandre = {
+  cargo: "Full Stack & Mobile Developer",
+  formacao: "ADS - 3° Período",
+  stack_principal: [
+    "Frontend: React, Next.js e TypeScript",
+    "Mobile: React Native e Expo",
+    "Backend: Node.js, NestJS e Microserviços",
+    "Design: Figma, UX/UI e Design Systems"
+  ],
+  missao:
+    "Construir experiências digitais que unam design sofisticado a uma engenharia de software robusta."
+};
+</pre>
 
-### • Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<hr/>
 
-### • Design & Architecture
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-FF61F6?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=docker&logoColor=white)
+<h2>📊 Visão geral do GitHub</h2>
 
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Marcsfic98&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcsfic98&layout=compact&hide_border=true&theme=github_dark"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
-## 📫 Vamos Conversar?
+<hr/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=zeit&logoColor=white)](https://portfoliomr265.web.app/)
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcsfic/)
-[![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Marcsfic98/Marcsfic98))
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcsfic98@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581983737440&text=Ol%C3%A1+Marcos+ribeiro+%21)
-  <div/>    
+<h2>🧩 Stack tecnológica</h2>
 
- 
- 
-  
-     
-          
-###
+<div align="center">
+  <h4>💻 Linguagens</h4>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph.svg">
-</picture>
+  <h4>🧱 Frameworks & Libraries</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,tailwind" />
 
+  <h4>📱 Mobile</h4>
+  <img src="https://skillicons.dev/icons?i=react,apple" /> <span>*(React Native / Expo)*</span>
 
-###          
-          
-          
-                
-          
+  <h4>🗄️ Banco de Dados</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
+  <h4>🛠️ Ferramentas & Design</h4>
+  <img src="https://skillicons.dev/icons?i=figma,jest,git,github,docker,vscode" />
+</div>
+
+<hr/>
+
+<h2>📊 Distribuição de Expertise</h2>
+
+<table>
+  <tr>
+    <th align="left">Área de Atuação</th>
+    <th align="center">Proficiência</th>
+    <th align="left">Destaque Principal</th>
+  </tr>
+  <tr>
+    <td><b>Frontend (React/Next)</b></td>
+    <td align="center"><b>94%</b></td>
+    <td>Interfaces reativas, SEO e performance Web</td>
+  </tr>
+  <tr>
+    <td><b>Mobile (React Native)</b></td>
+    <td align="center"><b>88%</b></td>
+    <td>Apps híbridos, Expo e fluidez nativa</td>
+  </tr>
+  <tr>
+    <td><b>Backend (Node/Nest)</b></td>
+    <td align="center"><b>85%</b></td>
+    <td>APIs RESTful, Microserviços e NestJS</td>
+  </tr>
+  <tr>
+    <td><b>UI/UX Design</b></td>
+    <td align="center"><b>90%</b></td>
+    <td>Design Systems, Figma e Acessibilidade</td>
+  </tr>
+  <tr>
+    <td><b>Testes (Jest)</b></td>
+    <td align="center"><b>80%</b></td>
+    <td>Testes unitários e qualidade de código</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>✨ Meus Diferenciais</h2>
+
+<table>
+  <tr>
+    <th align="left">Característica</th>
+    <th align="left">Aplicação Prática</th>
+  </tr>
+  <tr>
+    <td><b>Visão de Produto</b></td>
+    <td>Desenvolvo pensando no usuário final e nos objetivos de negócio.</td>
+  </tr>
+  <tr>
+    <td><b>Código Limpo</b></td>
+    <td>Foco em legibilidade e manutenção usando TypeScript e boas práticas.</td>
+  </tr>
+  <tr>
+    <td><b>Design Responsivo</b></td>
+    <td>Garantia de experiência perfeita em qualquer tamanho de tela.</td>
+  </tr>
+  <tr>
+    <td><b>Evolução Constante</b></td>
+    <td>Atualmente aprofundando em arquiteturas de Microserviços.</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>📈 Atividade & Contribuições</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcsfic98/Marcsfic98/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<hr/>
+
+<h2>💬✨ Vamos nos conectar</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcsfic/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Marcsfic98" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Repositórios-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfoliomr265.web.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Showcase%20Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:marcsfic98@gmail.com">marcsfic98@gmail.com</a><br>
+  🌍 <b>Baseado no Brasil | Aberto a oportunidades remotas</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Codificando%20o%20Futuro&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
