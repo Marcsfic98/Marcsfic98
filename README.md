@@ -44,7 +44,7 @@
   <li><b>Perfil:</b> Especialista em transformar problemas complexos em interfaces intuitivas e funcionais.</li>
   <li><b>Especialidades:</b> Aplicações escaláveis, Mobile cross-platform (Expo), Design Systems e UX/UI.</li>
   <li><b>Backend:</b> Construção de arquiteturas sólidas com Node.js, NestJS e foco em performance.</li>
-  <li><b>Local:</b> Brasil — disponível para projetos remotos e colaborações globais.</li>
+  <li><b>Local:</b> Brasil — disponível para projetos remotos , Hibridos e locais.</li>
 </ul>
 
 <pre>
